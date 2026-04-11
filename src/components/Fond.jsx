@@ -20,5 +20,6 @@ export default function Fond(props) {
         scale={nodes.FOND.scale}
       />
     </group>
+    
   )
 }
